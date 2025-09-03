@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevPipeline = createIconComponent("DevPipeline", "<rect x=\"3\" y=\"6\" width=\"6\" height=\"12\" rx=\"2\"/>\n<rect x=\"9\" y=\"6\" width=\"6\" height=\"12\" rx=\"2\"/>\n<rect x=\"15\" y=\"6\" width=\"6\" height=\"12\" rx=\"2\"/>", "<rect x=\"3\" y=\"6\" width=\"6\" height=\"12\" rx=\"2\"/>\n<rect x=\"9\" y=\"6\" width=\"6\" height=\"12\" rx=\"2\"/>\n<rect x=\"15\" y=\"6\" width=\"6\" height=\"12\" rx=\"2\"/>");

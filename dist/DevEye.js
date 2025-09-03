@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevEye = createIconComponent("DevEye", "<path d=\"M2 12s4-7 10-7 10 7 10 7-4 7-10 7S2 12 2 12z\"/>\n<circle cx=\"12\" cy=\"12\" r=\"3\"/>", "<path d=\"M2 12s4-7 10-7 10 7 10 7-4 7-10 7S2 12 2 12z\"/>\n<circle cx=\"12\" cy=\"12\" r=\"3\"/>");

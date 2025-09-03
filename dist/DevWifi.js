@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevWifi = createIconComponent("DevWifi", "<path d=\"M2 8a20 20 0 0 1 20 0\"/>\n<path d=\"M5 12a14 14 0 0 1 14 0\"/>\n<path d=\"M8 16a8 8 0 0 1 8 0\"/>\n<circle cx=\"12\" cy=\"19\" r=\"1\"/>", "<path d=\"M2 8a20 20 0 0 1 20 0\"/>\n<path d=\"M5 12a14 14 0 0 1 14 0\"/>\n<path d=\"M8 16a8 8 0 0 1 8 0\"/>\n<circle cx=\"12\" cy=\"19\" r=\"1\"/>");

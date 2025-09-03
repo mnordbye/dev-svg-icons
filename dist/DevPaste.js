@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevPaste = createIconComponent("DevPaste", "<rect x=\"8\" y=\"5\" width=\"12\" height=\"14\" rx=\"2\"/>\n<path d=\"M6 9V7a2 2 0 0 1 2-2h2\"/>\n<rect x=\"7\" y=\"3\" width=\"8\" height=\"4\" rx=\"1\"/>", "<rect x=\"8\" y=\"5\" width=\"12\" height=\"14\" rx=\"2\"/>\n<path d=\"M6 9V7a2 2 0 0 1 2-2h2\"/>\n<rect x=\"7\" y=\"3\" width=\"8\" height=\"4\" rx=\"1\"/>");

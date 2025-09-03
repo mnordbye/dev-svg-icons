@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevFileCode = createIconComponent("DevFileCode", "<path d=\"M4 4h10l6 6v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z\"/>\n<path d=\"M14 4v6h6\"/>\n<path d=\"M10 14l-3 3 3 3\"/>\n<path d=\"M14 20l3-3-3-3\"/>", "<path d=\"M4 4h10l6 6v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z\"/>\n<path d=\"M14 4v6h6\"/>\n<path d=\"M10 14l-3 3 3 3\"/>\n<path d=\"M14 20l3-3-3-3\"/>");

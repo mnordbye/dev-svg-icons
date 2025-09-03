@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevBranch = createIconComponent("DevBranch", "<circle cx=\"7\" cy=\"6\" r=\"2\"/>\n<circle cx=\"7\" cy=\"18\" r=\"2\"/>\n<circle cx=\"17\" cy=\"12\" r=\"2\"/>\n<path d=\"M9 6h4a4 4 0 0 1 4 4v2\"/>\n<path d=\"M9 18h4a4 4 0 0 0 4-4\"/>", "<circle cx=\"7\" cy=\"6\" r=\"2\"/>\n<circle cx=\"7\" cy=\"18\" r=\"2\"/>\n<circle cx=\"17\" cy=\"12\" r=\"2\"/>\n<path d=\"M9 6h4a4 4 0 0 1 4 4v2\"/>\n<path d=\"M9 18h4a4 4 0 0 0 4-4\"/>");

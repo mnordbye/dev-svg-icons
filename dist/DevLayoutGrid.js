@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevLayoutGrid = createIconComponent("DevLayoutGrid", "<rect x=\"3\" y=\"3\" width=\"8\" height=\"8\"/>\n<rect x=\"13\" y=\"3\" width=\"8\" height=\"8\"/>\n<rect x=\"3\" y=\"13\" width=\"8\" height=\"8\"/>\n<rect x=\"13\" y=\"13\" width=\"8\" height=\"8\"/>", "<rect x=\"3\" y=\"3\" width=\"8\" height=\"8\"/>\n<rect x=\"13\" y=\"3\" width=\"8\" height=\"8\"/>\n<rect x=\"3\" y=\"13\" width=\"8\" height=\"8\"/>\n<rect x=\"13\" y=\"13\" width=\"8\" height=\"8\"/>");

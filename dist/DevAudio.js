@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevAudio = createIconComponent("DevAudio", "<path d=\"M4 12a8 8 0 0 1 16 0\"/>\n<rect x=\"4\" y=\"12\" width=\"4\" height=\"6\" rx=\"1\"/>\n<rect x=\"16\" y=\"12\" width=\"4\" height=\"6\" rx=\"1\"/>\n<path d=\"M8 15v2\"/>\n<path d=\"M16 15v2\"/>", "<path d=\"M4 12a8 8 0 0 1 16 0\"/>\n<rect x=\"4\" y=\"12\" width=\"4\" height=\"6\" rx=\"1\"/>\n<rect x=\"16\" y=\"12\" width=\"4\" height=\"6\" rx=\"1\"/>\n<path d=\"M8 15v2\"/>\n<path d=\"M16 15v2\"/>");

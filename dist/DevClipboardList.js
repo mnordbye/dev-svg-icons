@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevClipboardList = createIconComponent("DevClipboardList", "<rect x=\"7\" y=\"3\" width=\"10\" height=\"4\" rx=\"1\"/>\n<rect x=\"5\" y=\"7\" width=\"14\" height=\"14\" rx=\"2\"/>\n<path d=\"M9 12h6\"/>\n<path d=\"M9 16h6\"/>", "<rect x=\"7\" y=\"3\" width=\"10\" height=\"4\" rx=\"1\"/>\n<rect x=\"5\" y=\"7\" width=\"14\" height=\"14\" rx=\"2\"/>\n<path d=\"M9 12h6\"/>\n<path d=\"M9 16h6\"/>");

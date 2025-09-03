@@ -1,0 +1,43 @@
+{
+  "name": "dev-svg-icons",
+  "version": "1.1.0",
+  "description": "Developer-focused React SVG icons with a single API (variant='outline'|'filled'). Precompiled ESM in dist/.",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "sideEffects": false,
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "keywords": [
+    "react",
+    "icons",
+    "svg",
+    "dev",
+    "components",
+    "outline",
+    "filled",
+    "single api"
+  ],
+  "files": [
+    "dist",
+    "src",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "author": "Magnus Nordbye",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnordbye/dev-svg-icons"
+  }
+}

@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const NavUsers = createIconComponent("NavUsers", "<circle cx=\"9\" cy=\"8\" r=\"3.5\"/>\n<path d=\"M2 20a7 7 0 0 1 14 0\"/>\n<path d=\"M17 9a3.5 3.5 0 1 0 0-7\"/>\n<path d=\"M17 9c1.9 0 5 1.2 5 4v2\"/>", "<circle cx=\"9\" cy=\"8\" r=\"3.5\"/>\n<path d=\"M2 20a7 7 0 0 1 14 0\"/>\n<path d=\"M17 9a3.5 3.5 0 1 0 0-7\"/>\n<path d=\"M17 9c1.9 0 5 1.2 5 4v2\"/>");

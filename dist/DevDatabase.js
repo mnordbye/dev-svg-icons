@@ -1,0 +1,2 @@
+import { createIconComponent } from './runtime.js';
+export const DevDatabase = createIconComponent("DevDatabase", "<ellipse cx=\"12\" cy=\"6\" rx=\"7\" ry=\"3\"/>\n<path d=\"M5 6v6c0 1.7 3.1 3 7 3s7-1.3 7-3V6\"/>\n<path d=\"M5 12v6c0 1.7 3.1 3 7 3s7-1.3 7-3v-6\"/>", "<ellipse cx=\"12\" cy=\"6\" rx=\"7\" ry=\"3\"/>\n<path d=\"M5 6v6c0 1.7 3.1 3 7 3s7-1.3 7-3V6\"/>\n<path d=\"M5 12v6c0 1.7 3.1 3 7 3s7-1.3 7-3v-6\"/>");
