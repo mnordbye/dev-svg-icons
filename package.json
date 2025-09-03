@@ -1,6 +1,6 @@
 {
   "name": "dev-svg-icons",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Developer-focused React SVG icons with a single API (variant='outline'|'filled'). Precompiled ESM in dist/.",
   "license": "MIT",
   "type": "module",
